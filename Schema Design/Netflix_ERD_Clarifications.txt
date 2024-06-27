@@ -1,0 +1,17 @@
+How many profiles are supported for a user?             -- this is a not a valid ques
+    -- What matters is if the user has 1 profile or more than 1
+        -- bcoz only if more than 1 you need a new table, doesnt matter what the no. is
+Can a user have multiple emails?                        -- this is a good ques
+Can a actor be also be a user?
+    -- the ques you should ask is, are there any different login methods
+    -- if yes, then provide it with a separate userId
+    -- else, store the inheretance relationship
+Do we need to maintain the genre of a video, bcoz if multiple genres are possible, then we need separate table for it.
+
+Do we need to maintain statistics for a video?
+
+
+Ask only structural ques?
+    Like if the relation is many to many or one to many?
+
+Sequence of video features for a series
