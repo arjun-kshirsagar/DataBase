@@ -1,0 +1,47 @@
+There are companies
+Companies have employees(recruiters)
+Companies will have connections(email, phNo, ordName, college)
+Companies can create email campaigns
+Campaigns will have email templates, which should be reusable
+Start and end date of a campaign
+Connection of one company should not be visible to another company
+Connections, Templates and campaigns are IP of a company, cant be shared with any other company
+
+
+
+Design Email Campaign Schema
+Unsolved
+Design a system to be used by various companies to reach out to their connections through automated email campaigns.
+
+
+
+System requirements:
+
+1. Companies should be able to add/update connections.
+
+2. Companies should be able to create email campaigns.
+
+3. Each campaign can have multiple email templates to be delivered after a specified duration of time if the connection does not reply to the mail.
+
+4. Companies should be able to stop the campaign for all or some of the connections.
+
+5. Email templates should be reusable (i.e. same template can be a part of different campaigns).
+
+
+
+Future Scope:
+
+1. Group connections based on any criteria (Ex: Backend Profile, Frontend Profile, ICPC Qualifier).
+
+2. Group campaigns and templates based on any criteria.
+
+
+
+NOTE:
+
+Draw Class diagram and the ER diagram.
+Define the PKs for all the tables.
+Mention the columns which should be indexed.
+
+
+Should the clarification asked at the beginning or while designing the schema?
