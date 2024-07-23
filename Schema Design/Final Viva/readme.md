@@ -15,3 +15,6 @@
 - List all available rooms of a specific type.
 - Calculate the average length of stay for patients in the hospital.
 - List all patients currently admitted to the hospital.
+
+## Schema:
+![Schema](./hospital-management-system.png)
